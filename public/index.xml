@@ -1,28 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
+      <title>Portfolio</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <description>Last 10 notes on Portfolio</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>week1</title>
-    <link>https://quartz.jzhao.xyz/week1</link>
-    <guid>https://quartz.jzhao.xyz/week1</guid>
-    <description>This is the first week.</description>
-    <pubDate>Sun, 15 Sep 2024 17:54:04 GMT</pubDate>
+    <title>week6</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week6</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week6</guid>
+    <description>La semaine dernière, lors de notre réunion hebdomadaire avec mon superviseur et le client, nous avons défini en détail les besoins des utilisateurs pour l’installeur de notre application ...</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
   </item><item>
-    <title>Test1</title>
-    <link>https://quartz.jzhao.xyz/Test1</link>
-    <guid>https://quartz.jzhao.xyz/Test1</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 17:54:04 GMT</pubDate>
+    <title>week5</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week5</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week5</guid>
+    <description>Comme expliqué précédemment, je n’ai travaillé que lundi et mardi la semaine dernière, avant de commencer à travailler pour mon examen (qui s’est bien déroulé normalement) ...</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
+  </item><item>
+    <title>week4</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week4</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week4</guid>
+    <description>En début de semaine dernière, j’avais évoqué avec mon superviseur une nouvelle architecture que nous avions imaginée. Cette architecture devait permettre d’optimiser l’espace de stockage de notre application en utilisant un cache central, évitant ainsi la duplication de nombreux fichiers.</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
+  </item><item>
+    <title>week3</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week3</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week3</guid>
+    <description>Comme expliqué dans les précédents rapports, j’ai commencé la semaine passée par une réunion avec le client pour voir mon avancée dans le projet, les points bloquants et ce sur quoi ...</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
+  </item><item>
+    <title>week2</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week2</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week2</guid>
+    <description>La semaine passée et cette semaine-ci, mon superviseur est en congé. Comme expliqué dans mon précédent rapport, je suis en train de construire un tableau comparatif des différentes architectures possible pour l’application.</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
+  </item><item>
+    <title>week1</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week1</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week1</guid>
+    <description>J’ai commencé lundi dernier à 9h par un rendez-vous avec mon maître de stage afin de récupérer mon PC et mon badge, suivi d’une visite des différents bâtiments et locaux ...</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
+  </item><item>
+    <title>Readme</title>
+    <link>https://quartz.jzhao.xyz/Readme</link>
+    <guid>https://quartz.jzhao.xyz/Readme</guid>
+    <description>LALA.</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
   </item><item>
     <title>Welcome to Bienfait Alexandre IBA-Internship portfolio</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Test1 week1.</description>
-    <pubDate>Sun, 15 Sep 2024 17:54:04 GMT</pubDate>
+    <description>Content Weekly report week1 week2 week3 week4 week5 week6.</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
+  </item><item>
+    <title>Presentation of the intern</title>
+    <link>https://quartz.jzhao.xyz/Content/Presentation-of-the-intern</link>
+    <guid>https://quartz.jzhao.xyz/Content/Presentation-of-the-intern</guid>
+    <description>The.</description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
+  </item><item>
+    <title>Presentation of the company and work environment</title>
+    <link>https://quartz.jzhao.xyz/Content/Presentation-of-the-company-and-work-environment</link>
+    <guid>https://quartz.jzhao.xyz/Content/Presentation-of-the-company-and-work-environment</guid>
+    <description></description>
+    <pubDate>Sun, 15 Sep 2024 20:21:24 GMT</pubDate>
   </item>
     </channel>
   </rss>
