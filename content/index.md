@@ -1,7 +1,8 @@
 ---
 title: Welcome to Bienfait Alexandre IBA-Internship portfolio
 ---
-# General
+# Content
+[[]]
 
 
 # Weekly report
