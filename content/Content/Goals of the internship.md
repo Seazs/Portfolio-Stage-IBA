@@ -4,3 +4,4 @@ draft:
 tags:
 ---
 
+The goal of the internship
