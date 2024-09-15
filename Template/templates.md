@@ -1,7 +1,6 @@
-
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
+title: <% tp.file.title %>
+draft: 
 tags:
-  - 
 ---
+
