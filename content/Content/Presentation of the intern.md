@@ -15,15 +15,22 @@ I started looking at companies to do my placement in Q1 of my MA1, but without f
 
 My first choices was to work in the Space industry, and that's why i got really excited when i talked with someone from **Space Application** who was interested in my profil. However, although I kept in touch with him, I never managed to get a reply from him, the company or even his colleague.
 
-
 # How i got into the internship
 
 
-At the Job Fair I spoke to a number of companies, including IBA. When I first heard about IBA, I was immediately drawn to the idea of working on something as impactful as proton therapy. The technology is fascinating, and I found it impressive to work in a company at the cutting edge of technology in its field.
+At the Job Fair I spoke to a number of companies, including [[Presentation of the company and work environment#IBA|IBA]]. When I first heard about IBA, I was immediately drawn to the idea of working on something as impactful as proton therapy. The technology is fascinating, and I found it impressive to work in a company at the cutting edge of technology in its field.
 
-Luckily, I know someone who works there and as soon as I sent him my CV and asked if he knew of any internship opportunities, I got an email asking if I was available for an interview. 
-
+Luckily, I know someone who works there and as soon as I sent him my CV and asked if he knew of any internship opportunities, I got an email from someone inside the company asking if I was available for an interview. 
 
 # The interview
 
+The Interview took place at IBA directly with **Gregory Deschamps** who's in charge of the [[Presentation of the company and work environment#Beam development team|Beam]] development team and with **Adrien Faucon** who will be my supervisor for the whole internship.
 
+This was my first interview ever and i had no idea what to expect. I didn't know what type of question they were going to ask neither how far they would test my knowledge.
+
+What I found hardest was answering the question, *"Introduce yourself and tell us about your background"*.
+It's pretty hard to make a clear, concise presentation that doesn't get bogged down in explaining details, and in which you manage to sell yourself by giving the qualities that could be required for the job.
+
+But passing that stressful part, they start asking questions about my background and all the project that i have done during my past study years. They were really interested in the projects I'd done during my years as a student. They wanted to know more not only about the technical side but also about the project management/team management side. That's were i fully understand the importance of course like *INFO-F307 (Génie logiciel et Gestion de projet)* whose main aim was to teach us how to code in the workplace.
+
+During the rest of the interview, they presented the [[Goals of the internship]] and how I was going to fit in with the team.

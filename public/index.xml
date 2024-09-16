@@ -6,65 +6,65 @@
       <description>Last 10 notes on Portfolio</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Sans titre 1</title>
-    <link>https://quartz.jzhao.xyz/Step-Back/Sans-titre-1</link>
-    <guid>https://quartz.jzhao.xyz/Step-Back/Sans-titre-1</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:46:34 GMT</pubDate>
-  </item><item>
-    <title>Critical analysis of the whole internship including the different people involved</title>
-    <link>https://quartz.jzhao.xyz/Step-Back/Critical-analysis-of-the-whole-internship-including-the-different-people-involved</link>
-    <guid>https://quartz.jzhao.xyz/Step-Back/Critical-analysis-of-the-whole-internship-including-the-different-people-involved</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:46:34 GMT</pubDate>
-  </item><item>
-    <title>Sans titre</title>
-    <link>https://quartz.jzhao.xyz/Step-Back/Sans-titre</link>
-    <guid>https://quartz.jzhao.xyz/Step-Back/Sans-titre</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:46:32 GMT</pubDate>
-  </item><item>
-    <title>Reflexive analysis</title>
-    <link>https://quartz.jzhao.xyz/Step-Back/Reflexive-analysis</link>
-    <guid>https://quartz.jzhao.xyz/Step-Back/Reflexive-analysis</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:46:32 GMT</pubDate>
-  </item><item>
-    <title>Record of the intern reactions to any feedback received during the internship</title>
-    <link>https://quartz.jzhao.xyz/Evaluation/Record-of-the-intern-reactions-to-any-feedback-received-during-the-internship</link>
-    <guid>https://quartz.jzhao.xyz/Evaluation/Record-of-the-intern-reactions-to-any-feedback-received-during-the-internship</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:39:25 GMT</pubDate>
-  </item><item>
-    <title>Traces of any evaluations</title>
-    <link>https://quartz.jzhao.xyz/Evaluation/Traces-of-any-evaluations</link>
-    <guid>https://quartz.jzhao.xyz/Evaluation/Traces-of-any-evaluations</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:39:25 GMT</pubDate>
-  </item><item>
-    <title>Self-assessment</title>
-    <link>https://quartz.jzhao.xyz/Evaluation/Self-assessment</link>
-    <guid>https://quartz.jzhao.xyz/Evaluation/Self-assessment</guid>
-    <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:39:24 GMT</pubDate>
-  </item><item>
     <title>Description of the work flow</title>
     <link>https://quartz.jzhao.xyz/Work-Organization/Description-of-the-work-flow</link>
     <guid>https://quartz.jzhao.xyz/Work-Organization/Description-of-the-work-flow</guid>
     <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:36:10 GMT</pubDate>
+    <pubDate>Mon, 16 Sep 2024 20:35:07 GMT</pubDate>
   </item><item>
     <title>Description of the programmed work plan</title>
     <link>https://quartz.jzhao.xyz/Work-Organization/Description-of-the-programmed-work-plan</link>
     <guid>https://quartz.jzhao.xyz/Work-Organization/Description-of-the-programmed-work-plan</guid>
     <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:36:10 GMT</pubDate>
+    <pubDate>Mon, 16 Sep 2024 20:35:07 GMT</pubDate>
   </item><item>
     <title>Analysis and explanation of the possible differences between real time and expected time</title>
     <link>https://quartz.jzhao.xyz/Work-Organization/Analysis-and-explanation-of-the-possible-differences-between-real-time-and-expected-time</link>
     <guid>https://quartz.jzhao.xyz/Work-Organization/Analysis-and-explanation-of-the-possible-differences-between-real-time-and-expected-time</guid>
     <description></description>
-    <pubDate>Sun, 15 Sep 2024 20:36:10 GMT</pubDate>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
+  </item><item>
+    <title>week6</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week6</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week6</guid>
+    <description>La semaine dernière, lors de notre réunion hebdomadaire avec mon superviseur et le client, nous avons défini en détail les besoins des utilisateurs pour l’installeur de notre application ...</description>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
+  </item><item>
+    <title>week5</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week5</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week5</guid>
+    <description>Comme expliqué précédemment, je n’ai travaillé que lundi et mardi la semaine dernière, avant de commencer à travailler pour mon examen (qui s’est bien déroulé normalement) ...</description>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
+  </item><item>
+    <title>week4</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week4</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week4</guid>
+    <description>En début de semaine dernière, j’avais évoqué avec mon superviseur une nouvelle architecture que nous avions imaginée. Cette architecture devait permettre d’optimiser l’espace de stockage de notre application en utilisant un cache central, évitant ainsi la duplication de nombreux fichiers.</description>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
+  </item><item>
+    <title>week3</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week3</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week3</guid>
+    <description>Comme expliqué dans les précédents rapports, j’ai commencé la semaine passée par une réunion avec le client pour voir mon avancée dans le projet, les points bloquants et ce sur quoi ...</description>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
+  </item><item>
+    <title>week2</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week2</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week2</guid>
+    <description>La semaine passée et cette semaine-ci, mon superviseur est en congé. Comme expliqué dans mon précédent rapport, je suis en train de construire un tableau comparatif des différentes architectures possible pour l’application.</description>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
+  </item><item>
+    <title>week1</title>
+    <link>https://quartz.jzhao.xyz/Weekly-report/week1</link>
+    <guid>https://quartz.jzhao.xyz/Weekly-report/week1</guid>
+    <description>J’ai commencé lundi dernier à 9h par un rendez-vous avec mon maître de stage afin de récupérer mon PC et mon badge, suivi d’une visite des différents bâtiments et locaux ...</description>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
+  </item><item>
+    <title>Reflexive analysis</title>
+    <link>https://quartz.jzhao.xyz/Step-Back/Reflexive-analysis</link>
+    <guid>https://quartz.jzhao.xyz/Step-Back/Reflexive-analysis</guid>
+    <description></description>
+    <pubDate>Mon, 16 Sep 2024 20:35:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
