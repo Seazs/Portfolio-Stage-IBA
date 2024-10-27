@@ -1,0 +1,8 @@
+La semaine **passée**, comme je l'avais expliqué, j'ai commencé à finaliser mon application en corrigeant pas mal de bugs. J'ai aussi commencé à implémenter toutes les fonctionnalités qui **étaient** présentes dans la première version de mon application. En faisant cela, je me suis rendu compte que mon architecture de code manquait un peu de clarté et pouvait difficilement **être** changée et améliorée. J'ai donc entrepris de faire un peu de refactoring afin d'avoir une base d'application vraiment propre avec un modèle-vue-contrôleur bien défini.
+
+En parallèle, j'ai aussi aidé mon superviseur sur son application en implémentant ce que j'avais développé pour la création d'installateurs Windows dans l'application qu'il développe. Ceci étant terminé, je dois maintenant passer par le processus de merge request afin d'intégrer mon code dans la branche principale du projet.  
+C'est intéressant parce que ce processus est constamment utilisé lors de l'ajout ou de la modification de code dans la branche principale d'un projet de plus grande ampleur.
+
+Sinon, ce midi, nous allons au restaurant avec mon équipe. Bien que je sois déjà bien intégré dans l'équipe, c'est sympa de pouvoir parler avec les collègues dans un cadre décontracté pendant la pause déjeuner.
+
+Mon objectif cette semaine est d'arriver à une version de mon application que l'on peut donner aux gens. Je vais donc continuer à implémenter toutes les fonctionnalités que les utilisateurs avaient déjà par le passé.
