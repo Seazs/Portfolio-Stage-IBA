@@ -11,4 +11,8 @@ These are the weekly report done to my academic supervisor, Mr Jérémie Roland
 [[week4]]
 [[week5]]
 [[week6]] 
+[[week7]] 
+[[week8]] 
+[[week9]]
+
 
