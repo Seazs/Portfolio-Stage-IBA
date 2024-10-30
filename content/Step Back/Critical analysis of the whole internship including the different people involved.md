@@ -5,16 +5,32 @@ tags:
 ---
 # Experience
 
-- Positive aspect
-	- I liked the whole work environement (way more enjoyable and less toxic that i thought, with no boss coming to add task to people (it's specific to the team as they don't really have a boss in the team but they recieve requirements and directive from other teams, but there isn't a hierarchical difference between the 2 team)).
-	- Learned a lot of different technical skills, from deepen my python overall skills, learn how to make graphical application on python, how to make easy to reuse code, etc... i learned all the automation pipeline of GitLab (that can easily be exported to other platform as it is the same principle). I learn How to make InnoSetup installer. All sort of things that i couldn't do before and with wich i feel confortable now.
-	- Liked the entreprise and the main mission of IBA. I feel that working in a company that have a real purpose that's meaningful is important as it's a source of motivation and devotion. 
-- Negative aspect
-		- I don't feel that working as a pure developer is what drives me the most. It didn't bother me to work any day of the internship, but i didn't feel a lot of motivation as i didn't find the subject so interesting. I didn't find enough challenges and problems to solve as i use to have in more engineer driven project. Here, it's was just about implementing what we want. Even if sometimes there were problems, it was always more computer problems and implementation problems that the solution itself.
-		- As i worked on a non-product software on my own, i have not been able to fully experiment the enterprise work. Even i worked beside my teams member, i was never include in the product development process, with all responsibilities and knowledge that it requires. I would have loved to experiment the developpement workflow, to learn about their GitFlow (how to use git to develop a produc in a safe manner) and the all merge request proccess (merging a git branch in the main one when a feature is ready to be pulished). Passing to more peer reviewing would certainly have though me a lot on my programming skills.
-		- I did improve my programming skills but by my own, i have rarely been subject to peer reviewing. I think maybe 3 times during the whole intern. (It was always very instructive), what i find little (It does take time so i understand them if it's not important for the main product).
+## Positive Aspects
 
-# Adrien
+- **Work Environment**  
+    I greatly enjoyed the work environment, which was far more positive and collaborative than I had anticipated. The absence of a strict hierarchical structure within the team made it feel inclusive and less pressured. Team members received requirements and directives from other teams without a direct manager imposing additional tasks, which fostered a sense of autonomy and mutual respect.
+    
+- **Technical Skills Acquired**  
+    I developed a broad range of technical skills during the internship, expanding my Python expertise significantly. I learned to create graphical applications, write reusable code, and handle the entire automation pipeline on GitLab, a skill transferrable to similar platforms. Additionally, I gained experience in using InnoSetup to create installers and tackled various tasks that I hadn’t previously been comfortable with. I feel much more capable in these areas now.
+    
+- **Company Mission**  
+    I appreciated the company’s mission and values, especially IBA’s focus on meaningful work. Being part of a company with a clear, impactful purpose was motivating and fostered a sense of dedication. I found this to be an important factor in maintaining motivation and commitment.
+    
+
+## Negative Aspects
+
+- **Developer Role Limitations**  
+    I realized that a purely developer-focused role may not be the best fit for me. While I didn’t mind working daily on my tasks, I found the subject matter less engaging and somewhat routine. Unlike previous engineering projects, which offered diverse challenges and problem-solving opportunities, this role felt more focused on straightforward implementation. The challenges I encountered were primarily technical or related to implementation, rather than complex problem-solving or innovation, which left me less fulfilled.
+    
+- **Limited Exposure to Full Development Workflow**  
+    Since I worked on a non-product software project independently, I wasn’t fully integrated into the company’s broader development processes. While I worked alongside team members, I wasn’t involved in product development responsibilities, including essential workflows like GitFlow (for safe, structured code development) and the merge request process (merging features into the main codebase). Being part of the full development workflow and having responsibilities tied to product output would have been invaluable for me to gain a more comprehensive understanding of the company’s approach to software development.
+    
+- **Minimal Peer Review Experience**  
+    While my programming skills improved, I didn’t receive much feedback through peer review, which happened only about three times over the course of the internship. Each review session was highly instructive, so I would have appreciated more frequent feedback on my code, though I understand it wasn’t always a priority for the team given their primary focus on product development.
+
+
+# People involved
+## Adrien
 
 Adrien was my supervisor throughout the internship. He really took me under his wing and provided constant support with each task I needed to complete, making sure I was never stuck or lacking any resources. We had many discussions, and he was fully invested in my project, which was incredibly generous considering the time he dedicated to it.
 
