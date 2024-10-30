@@ -34,3 +34,10 @@ It's pretty hard to make a clear, concise presentation that doesn't get bogged d
 But passing that stressful part, they start asking questions about my background and all the project that i have done during my past study years. They were really interested in the projects I'd done during my years as a student. They wanted to know more not only about the technical side but also about the project management/team management side. That's were i fully understand the importance of course like *INFO-F307 (Génie logiciel et Gestion de projet)* whose main aim was to teach us how to code in the workplace.
 
 During the rest of the interview, they presented the [[Goals of the internship]] and how I was going to fit in with the team.
+
+
+# What do i expect from the internship
+
+I chose IBA because I wanted to work for a company at the forefront of its field, particularly in the medical sector, where high standards and exemplary quality are paramount. I saw this environment as an opportunity to elevate my own expectations for my work, gain valuable experience in software development, and ultimately learn to produce 'clean' and well-structured code by the end of this internship.
+
+I also expect this internship to help me adapt to corporate life and understand workplace dynamics, even if they are specific to IBA.

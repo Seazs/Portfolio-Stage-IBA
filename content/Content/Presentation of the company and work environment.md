@@ -27,6 +27,15 @@ tags:
 
 # Work environnement
 
+## Company Organigram
+
+
 
 # Beam development team
 
+
+## Adrien Faucon
+Adrien was my supervisor during the whole internship. 
+
+## Gregory Deschamps
+Gregory was my responsable 
