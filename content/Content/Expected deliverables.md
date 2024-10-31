@@ -21,3 +21,23 @@ In parallel with the application, the goal was also to automate several processe
     - Streamlining the publication process for new applications within ProteusToolbox.
 
 These enhancements aim to improve the overall user experience and reduce the manual workload for engineers.
+
+
+Here is some screenshot of the application in it's final form at the end of my internship.
+
+This is the main menu from which you can see and launch installed application
+![[Capture d'écran 2024-10-29 165216.png]]
+
+
+Here is for exemple when the application Ftov-Editor is launched
+![[Capture d'écran 2024-10-29 165805.png]]
+
+
+Here is the store that directly fetch all available application on a Nexus repository
+![[Capture d'écran 2024-10-29 165618.png]]
+
+And here is the menu where you can change the Nexus repository to either select the development or production server. 
+![[Capture d'écran 2024-10-29 165540.png]]
+
+
+
