@@ -4,11 +4,11 @@ draft:
 tags:
 ---
 # ProteusToolBox
-The main deliverable of this internship is the ProteusToolbox application. It is a **store** and **launcher** for python application was initially designed primarily for flying engineers. These engineers works on site and are responsible for the maintenance and upkeep of hospital machinery. They rely on several Python applications to automate certain tasks. Before the development of ProteusToolbox, each application had to be installed individually, which posed a significant challenge, as installing Python applications can be complex. This was especially burdensome for engineers who often work on hospital computers, requiring them to repeat installations at each new site.
+The main deliverable of this internship is the ProteusToolbox application. It is a **store** and **launcher** for python application that was initially designed primarily for flying engineers. These engineers works on site and are responsible for the maintenance and upkeep of hospital machinery. They rely on several Python applications to automate certain tasks. Before the development of ProteusToolbox, each application had to be installed individually, which posed a significant challenge, as installing Python applications can be complex. This was especially burdensome for engineers who often work on hospital computers, requiring them to repeat installations at each new site.
 
 This need led to the creation of ProteusToolbox, a store that simplifies the installation of a predefined list of Python applications by proposing a graphical interface. Espetially knowing that the users aren't necessarily familiar with terminal commands.
 
-However, the first version of ProteusToolbox is limited by a fixed version of Python and locked dependencies, which can constrain other applications that may require different versions.
+However, the first version of ProteusToolbox created by [[Presentation of the company and work environment#Valentin Demonte (intern Client)|Valentin Demonte]] is limited by a fixed version of Python and locked dependencies, which can constrain other applications that may require different versions.
 
 The goal of this internship deliverable is thus an enhanced version of ProteusToolbox, where each application has its own dedicated Python environment, removing restrictions related to Python versions and dependencies.
 
