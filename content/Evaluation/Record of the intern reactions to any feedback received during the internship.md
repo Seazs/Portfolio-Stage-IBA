@@ -9,4 +9,4 @@ We have a meeting every week with my supervisor and the intern client Valentin. 
 - discuss the problems and difficulty that i have
 - plan what i will do during the following week
 
-Thus every week i have a feedback on what i did. 
+Thus every week i receive a feedback on what i did the last week which allow me to 

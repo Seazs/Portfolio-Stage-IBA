@@ -23,7 +23,7 @@ In parallel with the application, the goal was also to automate several processe
 These enhancements aim to improve the overall user experience and reduce the manual workload for engineers.
 
 
-Here is some screenshot of the application in it's final form at the end of my internship.
+Here is some screenshot of the application in it's final form at the end of my internship. (**confidential**)
 
 This is the main menu from which you can see and launch installed application
 ![[Capture d'écran 2024-10-29 165216.png]]
