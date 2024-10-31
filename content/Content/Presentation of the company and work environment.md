@@ -49,3 +49,5 @@ Adrien was my supervisor during the whole internship.
 
 ## Gregory Deschamps
 Gregory was my responsable 
+
+## Valentin Demonte (intern Client)

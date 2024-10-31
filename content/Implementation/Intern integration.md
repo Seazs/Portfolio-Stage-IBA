@@ -17,3 +17,7 @@ In addition to badminton, one of my colleagues was an avid runner, often going f
 I also attended two after-work events in August and September, where IBA arranged food trucks for free meals. These events were a great opportunity to socialize and meet people across different teams.
 
 During my last week, we went out to a restaurant, which allowed me to connect with colleagues who don’t come into the office often and with whom I hadn’t yet had many opportunities to talk.
+
+
+Here is a photo of me in front of the main office
+![[WhatsApp Image 2024-10-04 at 13.15.41_2ba18980.jpg]]
