@@ -26,3 +26,6 @@ Both my supervisor and the team leader were very pleased and impressed with my p
 
 ---
 
+At the end of my internship, I gave a presentation to showcase all my work and explain how to use what I had developed. Everyone congratulated me on both the presentation and the work I had done. Some, including my supervisor, were surprised by the diversity and complexity of what I had accomplished.
+
+The most satisfied were those who plan to use my work in the future, as they were pleased to see all the features of my application.
