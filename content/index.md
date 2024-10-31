@@ -17,7 +17,6 @@ title: Welcome to Bienfait Alexandre IBA-Internship portfolio
 # Implementation
 [[Critical events]] \
 [[Intern integration]]\
-%% [[Professional activities]]\ %%
 [[Technical content]]\
 [[Weekly reports]]
 
