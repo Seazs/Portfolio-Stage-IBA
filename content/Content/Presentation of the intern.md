@@ -20,7 +20,7 @@ My first choices was to work in the Space industry, and that's why i got really 
 
 At the Job Fair I spoke to a number of companies, including [[Presentation of the company and work environment#IBA|IBA]]. When I first heard about IBA, I was immediately drawn to the idea of working on something as impactful as proton therapy. The technology is fascinating, and I found it impressive to work in a company at the cutting edge of technology in its field.
 
-Luckily, I know someone who works there and as soon as I sent him my CV and asked if he knew of any internship opportunities, I got an email from someone inside the company asking if I was available for an interview. 
+Luckily, I know someone who works there and as soon as I sent him my [[CV_Bienfait_Alexandre.pdf|CV]] and asked if he knew of any internship opportunities, I got an email from someone inside the company asking if I was available for an interview. 
 
 # The interview
 

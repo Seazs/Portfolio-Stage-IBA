@@ -9,7 +9,6 @@ title: Welcome to Bienfait Alexandre IBA-Internship portfolio
 
 ---
 # Work Organization
-[[Description of the programmed work plan]]\
 [[Description of the work flow]]\
 [[Analysis and explanation of the possible differences between real time and expected time]]
 
