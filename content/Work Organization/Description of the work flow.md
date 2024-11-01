@@ -84,5 +84,11 @@ In the V-Model, each development phase on the left side has a corresponding veri
 
 In this V-Model workflow at IBA, the responsibility for verification lies with the team or individuals who initially specified the requirements or designed the components. This ensures that those who defined the requirements also confirm their implementation, maintaining accountability and alignment with the original objectives.
 
+--- 
 
 My team is at the lowest level, Software architecture and below. 
+
+To track all the task, IBA uses JIRA. JIRA is a project management and issue-tracking software developed by Atlassian, widely used by teams to plan, track, and manage software development projects. It enables users to create, organize, and prioritize tasks, bugs, and feature requests. With customizable workflows, JIRA supports Agile methodologies like Scrum and Kanban, making it especially popular among software development teams to streamline collaboration and improve project visibility.
+
+It also allow to connect task directly to Gitlab by linking a Jira task to a merge request for exemple or to a specific branch to track the evolution. This is very convenient and i used this once when i worked on my supervisors project.
+
